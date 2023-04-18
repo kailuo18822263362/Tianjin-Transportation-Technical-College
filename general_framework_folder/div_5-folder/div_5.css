@@ -1,0 +1,18 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+/* General framework */
+.general_framework {
+	width: 1535px;
+	height: 1800px;
+	background-color: rgb(53, 53, 53);
+	float: left;
+}
+
+.div4_img {
+	width: 400px;
+	margin: 30px;
+}

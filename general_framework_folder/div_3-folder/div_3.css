@@ -1,0 +1,65 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+/* General framework */
+.general_framework {
+	width: 1535px;
+	height: 2300px;
+	background-color: rgb(206, 25, 25);
+	float: left;
+}
+
+.div1{
+	width:1535px ;
+	height: 800px;
+	float: left;
+	background-color:rgb(43, 43, 43);
+}
+
+
+.div1_topzi {
+	width: 1535px;
+	height: 10px;
+	/* background-color: antiquewhite; */
+}
+
+
+.div1_left_zi{
+	width: 800px;
+	height: 300px;
+	/* background-color: aqua; */
+	float: left;
+	margin-top: 250px;
+}
+
+
+
+
+
+
+.div1_card1 {
+	width: 400px;
+	height: 550px;
+	/* background-color: aqua; */
+	float: right;
+	margin: 0px 300px 0px 0px;
+}
+
+
+
+.div2{
+	width:1535px ;
+	height: 750px;
+	float: left;
+	background-color: rgb(61, 61, 61);
+}
+
+.div3{
+	width:1535px ;
+	height: 750px;
+	float: left;
+	background-color: rgb(43, 43, 43);
+}

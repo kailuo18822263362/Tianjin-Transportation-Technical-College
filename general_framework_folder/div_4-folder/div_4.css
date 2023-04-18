@@ -1,0 +1,29 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+/* General framework */
+.general_framework {
+	width: 1535px;
+	height: 1600px;
+	background-color: rgb(211, 211, 211);
+	float: left;
+}
+
+
+.div4_card1 {
+	width: 1535px;
+	height: 800px;
+	/* background-color: rgb(139, 99, 99); */
+	float: left;
+}
+
+
+.div4_card2 {
+	width: 1535px;
+	height: 800px;
+	/* background-color: rgb(139, 99, 99); */
+	float: left;
+}

@@ -1,0 +1,16 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+/* General framework */
+.general_framework {
+	width: 1515px;
+	height: 12200px;
+	background-color: rgb(0, 0, 0);
+	float: left;
+}
+
+
+

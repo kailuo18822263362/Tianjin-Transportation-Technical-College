@@ -1,0 +1,183 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+/* General framework */
+.general_framework {
+	width: 1515px;
+	height: 850px;
+	float: left;
+}
+
+.div_1 {
+	width: 1515px;
+	height: 850px;
+	float: left;
+}
+
+
+.logo {
+	width: 150px;
+	height: 150px;
+	float: left;
+	position:absolute;
+}
+
+.school_name {
+	width: 600px;
+	height: 50px;
+	color: black;
+	position:absolute;
+	float:left;
+	margin: 30px 0px 0px 150px;
+	font-size: 27px;
+	font-weight: 600;
+	font-variant: small-caps
+}
+
+
+
+
+.general_button {
+	width: 0px;
+	height: 100px;
+	/* background-color: rgb(129, 129, 129); */
+	float: left;
+	margin: 0px 0px 0px 765px;
+	position:absolute;
+}
+
+
+.general_button_top {
+	width: 750px;
+	height: 50px;
+	float: left;
+	margin: 0px 0px 0px 0px;
+}
+
+
+.general_button_web1 {
+	color: #000000;
+	font-size: 14px;
+	width: 70px;
+	height: 20px;
+	background-color:transparent;
+    border-style:none;
+	border-radius: 5px;
+	margin: 5px 5px 0px 5px;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	text-align: center;
+	float: right;
+	text-decoration:none
+	
+	
+}
+
+
+.general_button_web1:hover {
+	color: blue;
+}
+
+
+
+
+
+/* .general_button_web2 {
+	width: 60px;
+	height: 30px;
+	background-color:transparent;
+    border-style:none;
+	border-radius: 5px;
+	margin: 5px 5px;
+} */
+
+
+
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	border-radius: 5px 0px 0px 5px;
+  }
+  
+  li {
+	float: left;
+  }
+  
+  li a, .dropbtn {
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+
+	background-color:transparent;
+    border-style:none;
+
+
+  }
+  
+  li a:hover, .dropdown:hover .dropbtn {
+	background-color: red;
+  }
+  
+  li.dropdown {
+	display: inline-block;
+  }
+  
+  .dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #333;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(255, 255, 255, 0.2);
+	z-index: 1;
+  }
+  
+  .dropdown-content a {
+	color: rgb(255, 255, 255);
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	text-align: left;
+  }
+  
+  .dropdown-content a:hover {background-color: #000000;}
+  
+  .dropdown:hover .dropdown-content {
+	display: block;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.video-background {
+	width: 1515px;
+	float: left;
+	position:absolute;
+	float: left;
+}
+
+
